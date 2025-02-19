@@ -1,3 +1,3 @@
 # Proyecto InverTech
-# Martin Hernandez
-# Sebastian Agudelo
+* Martin Hernandez
+* Sebastian Agudelo
